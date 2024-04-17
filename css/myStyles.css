@@ -1,0 +1,40 @@
+.header{
+    background-color: white;
+    color: lightcoral;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.ring {
+    background-color: rgb(179, 221, 235);
+    font-family: Georgia, 'Times New Roman', Times, serif
+    }
+
+.dog {
+    color: lightcoral;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline; color: lightcoral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#top{
+    text-decoration: underline;
+}
+.water{
+    color: white;
+}
+.cat{
+    color: whitesmoke;
+    text-align: center;
+}
+nav a:hover{
+    background-color: grey;
+}
+.watch{
+    background-color: lightblue;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.computer{
+    text-decoration: underline;
+}
